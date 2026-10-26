@@ -1,0 +1,12 @@
+AI tool used: ChatGPT (OpenAI)
+
+Prompt used:
+" kdjnsjdsnjfnk nkn "
+
+How AI helped:
+ChatGPT helped complete the starter HTML pages, style them with Bootstrap 5.3 and custom CSS, create a simple PHP confirmation page, correct relative links for the lab1 folder structure, and identify the places where I can replace sample information with my own.
+
+Example of a suggestion I reviewed and used:
+The starter home page linked to lab1/tutors.html and lab1/images/tutoring.png. Because index.html is already inside the lab1 folder, I used tutors.html and images/tutoring.png so those paths resolve from the project root.
+
+Before submitting, update this note if you used other prompts or made different changes. Be ready to explain the HTML, CSS, Bootstrap classes, form fields, and PHP response in your own words.
